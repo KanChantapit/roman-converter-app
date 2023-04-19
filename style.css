@@ -1,0 +1,38 @@
+* {
+    font-family: 'EB Garamond', serif;
+}
+
+p {
+    font-weight: 500;
+    font-size: larger;
+}
+
+.bg-img {
+    background-image: url("/img/background.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.col-sm-8 {
+    background-color: wheat;
+    padding: 30px 100px;
+}
+
+.result-container {
+    background-color: white;
+    height: 40px;
+    border: solid black 1px;
+    padding: 0;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+footer {
+    background-color: grey;
+}
+
+#footer-copyright {
+    color: white;
+    font-size: small;
+    margin-top: 1rem;
+}
